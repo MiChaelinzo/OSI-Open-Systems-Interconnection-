@@ -11,5 +11,6 @@ OSI (Open Systems Interconnection) is a reference model for how communication sh
 7. Application: This layer is the top layer of the OSI model and is responsible for providing services to the user, such as email and file transfer.
 The OSI model is a useful tool for understanding how different systems communicate with each other on a network. It provides a standard way of describing the different layers of communication and the functions that they perform.
 
+![OSI-Model](https://user-images.githubusercontent.com/68110223/207384855-72022e4d-133a-46ed-a90c-4e40f455a3b9.png)
 
 
